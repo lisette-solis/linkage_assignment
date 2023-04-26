@@ -1,4 +1,4 @@
-## Coding assignment on linking records from different data sources that I completed for class. I cannot share my code publicly but it can shared upon request. 
+## This is the description of a coding assignment on linking records from different data sources that I completed for class. I cannot share my code publicly but it can shared upon request. 
 
 # Data Cleaning & Linkage
 
